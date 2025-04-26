@@ -31,12 +31,12 @@ Welcome to the **Space Invaders** game developed by **Lynx Logical**! This repos
    ```bash
    python space_invaders.py
 
-### Controls
-Left Arrow: Move spaceship left
-Right Arrow: Move spaceship right
-Spacebar: Shoot bullets
+## Controls
+Left Arrow: Move spaceship left.
+Right Arrow: Move spaceship right.
+Spacebar: Shoot bullets.
 
-### Code Overview
+## Code Overview
 The game is structured around several key classes and functions:
 
 Spaceship: Handles player movement and shooting.
