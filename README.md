@@ -16,20 +16,19 @@ Welcome to the **Space Invaders** game developed by **Lynx Logical**! This repos
 ### Prerequisites
 
 - Python 3.x
-- Pygame library
+- Pygame-CE library
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/space-invaders.git
-   cd space-invaders
-2. Install Pygame:
+   git clone https://github.com/Ged-12/Space-Invaders.git
+2. Install modules:
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
 3. Run the game:
    ```bash
-   python space_invaders.py
+   python main.py
 
 ## Controls
 - **Left Arrow**: Move spaceship left.
