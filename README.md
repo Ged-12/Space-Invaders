@@ -10,6 +10,7 @@ Welcome to the **Space Invaders** game developed by **Lynx Logical**! This repos
 - **Sound Effects**: Enjoy immersive sound effects for shooting and explosions.
 - **Score Tracking**: Keep track of your score and lives, with a feed displaying recent points earned.
 - **Game Over and Restart**: A user-friendly game over screen that allows players to restart the game easily.
+- **Upgrade Shop**: A user-friendly shop screen that allows the player to upgrade their spaceship
 
 ## Getting Started
 
